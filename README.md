@@ -7,3 +7,5 @@ Reading Resources:
 [Data cleaning for data sharing](https://cghlewis.com/blog/data_clean_01/)
 
 [The Artists of Data Science: A Brief Guide to Data Cleaning](https://media.licdn.com/dms/document/C561FAQEstbZpo-y94w/feedshare-document-pdf-analyzed/0/1679627624303?e=1680739200&v=beta&t=nWoHiTLIxKrTKkE6CqES3zPnGACkw69akb43r-54nik)
+
+[Recommended Resources for Starting A/B Testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
