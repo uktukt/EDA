@@ -14,4 +14,4 @@ Reading Resources:
 
 [A/B Testing for Data Science using Python – A Must-Read Guide for Data Scientists](https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
 
-[https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499](https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499)
+[A/B Testing: A Complete Guide to Statistical Testing](https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499)
