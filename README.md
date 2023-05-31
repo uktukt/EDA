@@ -10,4 +10,8 @@ Reading Resources:
 
 [Recommended Resources for Starting A/B Testing](https://hookedondata.org/posts/2023-04-19-recommended-resources-for-ab-testing/)
 
+[A/B Testing Guide](https://vwo.com/ab-testing/#what-is-a-b-testing)
+
 [A/B Testing for Data Science using Python – A Must-Read Guide for Data Scientists](https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
+
+[https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499](https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499)
