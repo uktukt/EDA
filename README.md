@@ -15,3 +15,8 @@ Reading Resources:
 [A/B Testing for Data Science using Python – A Must-Read Guide for Data Scientists](https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/)
 
 [A/B Testing: A Complete Guide to Statistical Testing](https://towardsdatascience.com/a-b-testing-a-complete-guide-to-statistical-testing-e3f1db140499)
+
+[Infographics Journalist Charles Apple on Making Effective Charts](https://nightingaledvs.com/charles-apple-on-making-effective-charts/?mc_cid=a2ae748113&mc_eid=dc745fdf63&fbclid=IwAR3hPkDTVlv29rPaTNUQUpVV-emtI5rr3OCPyghWC5NMSepVjkf15pk96Nk)
+
+[How to Create a Beautiful Polar Histogram With Python and Matplotlib](https://dev.to/oscarleo/how-to-create-a-beautiful-polar-histogram-with-python-and-matplotlib-400l)
+
