@@ -22,3 +22,5 @@ Reading Resources:
 
 [How to Create a Beautiful Polar Histogram With Python and Matplotlib](https://dev.to/oscarleo/how-to-create-a-beautiful-polar-histogram-with-python-and-matplotlib-400l)
 
+[Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
+
