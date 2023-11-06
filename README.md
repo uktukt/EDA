@@ -24,3 +24,5 @@ Reading Resources:
 
 [Best Practices for Data Visualisation](https://royal-statistical-society.github.io/datavisguide/)
 
+[Data Visualisation: A Comprehensive Guide to Unlocking Your Data’s Potential](https://data.europa.eu/apps/data-visualisation-guide/)
+
